@@ -1,9 +1,9 @@
 ![Biome Title Example](images/icon.png)
-# Dreamer Titles 
+# Dreamers Titles 
 
 ## Description
 
-Dreamer Titles is a simple mod for **Lucid Blocks** that displays a title on the screen whenever you enter a new biome.
+Dreamers Titles is a simple mod for **Lucid Blocks** that displays a title on the screen whenever you enter a new biome.
 
 The mod is inspired by **Traveler's Titles Mod** from Minecraft and the **"New Area" titles** from the Dark Souls series.
 
