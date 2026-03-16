@@ -9,7 +9,7 @@ The mod is inspired by **Traveler's Titles Mod** from Minecraft and the **"New A
 
 When the player enters a new biome, the mod will:
 
-* Display the biome name at the top of the screen
+* Display the biome name (and perhaps some interesting information about it) at the top of the screen.
 * Play a small sound
 * Fade the title in and out smoothly
 
